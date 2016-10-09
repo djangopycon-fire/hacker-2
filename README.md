@@ -7,7 +7,7 @@ This directory contains a IPython notebook [HackerEarthComp.ipynb] which contain
 ign.csv is the dataset used.
 
 ## Side note, you can view the IPython notebook online at the following url
-[Competition IPython Notebook](http://www.google.com)
+[Competition IPython Notebook](http://nbviewer.jupyter.org/github/jsjaskaran/gmhe-comp/blob/master/HackerEarthComp.ipynb)
 
 ## Answers to the questions
 
